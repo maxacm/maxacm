@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @maxacm
-- 👀 I’m interested in A.I., Banking, Climate Change, Carbon Capture, Finance, and Mars
-- 🌱 I’m currently learning Python
+- 👀 I’m interested in A.I., Climate Change, Carbon Capture, and Mars.
+- 🌱 I’m currently learning Python.
 - 📫 You can reach me at https://www.linkedin.com/in/max-calzada-munoz/
 
 <!---
