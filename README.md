@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @maxacm
 - 👀 I’m interested in A.I., Climate Change, Carbon Capture, and Mars.
-- 🌱 I’m currently learning AWS.
+- 🌱 I’m currently learning SQL and AWS.
 - 📫 You can reach me at https://www.linkedin.com/in/max-calzada-munoz/
 
 <!---
